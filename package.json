@@ -9,7 +9,7 @@
   },
   "browserify": {
     "transform": [
-      "reactify"
+      "6to5ify"
     ]
   },
   "repository": {
